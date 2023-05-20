@@ -17958,7 +17958,7 @@ body[data-type="essay"] #page .author-content-item .card-content .banner-button-
   width: 100%;
   height: 30px;
   line-height: 30px;
-  display: flex;
+  display: block;
   flex-direction: column;
 }
 i.bber-logo {
@@ -17990,7 +17990,6 @@ i.bber-gotobb {
   font-weight: 700;
   margin: auto;
   cursor: pointer;
-  display: block;
   white-space: nowrap;
 }
 #bber-talk .li-style:hover {
