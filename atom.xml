@@ -6,7 +6,7 @@
   <link href="https://edwardshh.cn/atom.xml" rel="self"/>
   
   <link href="https://edwardshh.cn/"/>
-  <updated>2023-05-24T07:47:53.649Z</updated>
+  <updated>2023-05-24T07:50:34.473Z</updated>
   <id>https://edwardshh.cn/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="https://edwardshh.cn/2023/05/24/hello-world/"/>
     <id>https://edwardshh.cn/2023/05/24/hello-world/</id>
-    <published>2023-05-24T07:47:53.649Z</published>
-    <updated>2023-05-24T07:47:53.649Z</updated>
+    <published>2023-05-24T07:50:34.473Z</published>
+    <updated>2023-05-24T07:50:34.473Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -45,7 +45,7 @@
     <link href="https://edwardshh.cn/2023/05/21/20230521/"/>
     <id>https://edwardshh.cn/2023/05/21/20230521/</id>
     <published>2023-05-21T12:42:34.391Z</published>
-    <updated>2023-05-24T07:47:53.649Z</updated>
+    <updated>2023-05-24T07:50:34.473Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>在很多陌生朋友的帮助下，博客终于搭建好了。在准备搭建前，感觉思如泉涌，迫不及待要写出一大摞的文章，没想到搭建完成后，脑子里竟然一片空白，打出第一个字都变得如此费力。所以，算了吧，这篇就当作练笔，说不定写着写着，就能找到方向。</p></blockquote><h1 id="关于学习"><a href="#关于学习" class="headerlink" title="关于学习"></a>关于学习</h1><p>月初，由于公司办展会，日语学习就停了下来，就是没料到这一停就是两周。回顾之前的学习笔记，单词和语法竟宛如初见，不知道多久才能重新回到学习状态，今年还能考N1吗？</p><p>最近倒腾的另一个事情，就是找一款合适的GTD软件。其实之前已经花了很多钱，买了一堆APP，最后选了一款2Do的软件，用起来确实也很顺手，GTD逻辑也很清晰。不过现在各式各样的GTD、效率软件又冒了出来，果然还是没能控制住自己，白瞎了一笔钱，最终还是用回了2Do。</p><h1 id="关于跑步"><a href="#关于跑步" class="headerlink" title="关于跑步"></a>关于跑步</h1><p>这周的跑步计划，依旧感觉没有尽力。进入4月，因为下班时间的推迟，决定把跑步挪到早晨，但是起床实在是太困难了，即使5：30的时候，天已经敞亮了。只要稍微赖一会儿床，哪怕一分钟，就基本注定起不来了，注定今天跑步计划报销。自己也尝试过晚上早睡，但事实证明，早睡不一定早起。懒惰永远是人类的敌人。</p><p><img src="https://img01.anzhiy.cn/useruploads/160/2023/05/22/646b6f69c32d6.png" alt="https://img01.anzhiy.cn/useruploads/160/2023/05/22/646b6f69c32d6.png"></p><h1 id="关于工作"><a href="#关于工作" class="headerlink" title="关于工作"></a>关于工作</h1><p>现在的工作很轻松，但却是一份边缘化、可有可无的职位，加上自己30多的年纪，每天都在担心自己失业，中年危机还是来了。其实也想过换一家公司，但还是没有勇气跳出舒适圈，更何况现在就业环境如此不明朗。也是因为很闲，才逼着自己学学日语（至少学会了，打游戏会方便一些……）。</p><p>周末回到学校课题组聚餐，学弟学妹们读博的读博，出国的出国，有的留校做了老师。有时候自己也会想，如果当时坚持留下来读个博士，现在的自己会在干什么？羡慕后辈，主要还是羡慕他们的年轻吧？感觉年轻才是最大的财富，有更多的机会和可能。</p><h1 id="关于家庭"><a href="#关于家庭" class="headerlink" title="关于家庭"></a>关于家庭</h1><p>儿子不知不觉都已经长到120cm了，让他免费吃自助、免费看电影的机会越来越少了。这周去饭店，还特地嘱咐他要弯着腰，骗过服务员的眼睛。不过估计再过段时间也不行了吧？</p><p>最近儿子迷上了变形金刚，每天念叨着6月9号要去电影院看《变形金刚7》。于是先给他买了本变形金刚的人物图鉴解解馋。意料之外，我也跟着看得有滋有味。特别是人物名字的中文化翻译，狂飙、热破、横炮……这些名字既张扬，又有内涵，还符合人物性格，译者的文化素养太高了。</p>]]></content>
     
