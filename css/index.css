@@ -10387,7 +10387,7 @@ blockquote {
 }
 .post-reward .reward-main .reward-all .reward-group .reward-item {
   display: inline-block;
-  padding: 0px 8px;
+  padding: 0px 0px;
   list-style-type: none;
   vertical-align: top;
 }
