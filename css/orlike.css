@@ -1,12 +1,12 @@
 .orlike {
-    color: rgba(255, 255, 255);
+    color: rgb(128, 197, 237);
     font-size: 26px!important;
     line-height: 2;
     text-shadow: 5px 5px 5px #2ed0d9fc;
   }
   [data-theme=dark]
   .orlike {
-      color: rgba(255, 255, 255, 0.85);
+      color: rgba(128, 220, 241, 0.85);
       text-shadow: 4px 4px 4px #23a8af99;
   }
   .orlike:first-child{
