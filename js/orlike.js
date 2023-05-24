@@ -44,3 +44,10 @@ OrLike.prototype.query = function () {
 OrLike.prototype.orl = function (obj, method) { server_url = obj.serverUrl; req_url = server_url + '/orl?method=' + method + '&link=' + window.location.pathname + '&' + obj.ckid + '=' + getCookie(obj.ckid); $.ajax({ type: 'GET', url: req_url, dataType: 'jsonp', jsonp: "callback", jsonpCallback: "success", xhrFields: { withCredentials: true }, crossDomain: true, success: function (data) { obj.query(); }, }); }
 OrLike.prototype.like = function (event) { obj = event.data.obj; obj.orl(obj, 'like'); }
 OrLike.prototype.dislike = function (event) { obj = event.data.obj; obj.orl(obj, 'dislike'); }
+
+
+
+作者: 『轻笑Chuckle』
+链接: https://www.qcqx.cn/article/5de26c08.html
+来源: 轻笑Chuckle
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
