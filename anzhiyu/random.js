@@ -1,1 +1,1 @@
-var posts=["2023/05/21/20230521/","2023/05/31/20230531/","2023/05/31/hello-world/","2023/05/31/日语动词变形/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/05/21/20230521/","2023/05/31/20230531/","2023/05/31/日语动词变形/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
